@@ -81,7 +81,6 @@ public void displayLosingMessage()
         {
           buttons[r][c].setLabel("B");
           bombs.remove(buttons[r][c]);
-          fill(255, 0, 0);
           buttons[10][6].setLabel("Y");
           buttons[10][7].setLabel("O");
           buttons[10][8].setLabel("U");
